@@ -1,4 +1,4 @@
-### Hi there world! I'm Mario 👋:neckbeard:
+### Hi World! :earth_americas: I'm Mario 👋
 
 <!--
 **maczamora/maczamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
